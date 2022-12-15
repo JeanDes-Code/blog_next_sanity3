@@ -4,7 +4,7 @@ import '../../styles/globals.css'
 
 export default function RootLayout({children}: {children: React.ReactNode}) {
   return (
-    <html>
+    <html lang="fr">
       <body className="max-w-7xl mx-auto">
         <Header />
         <Banner />
